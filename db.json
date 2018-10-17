@@ -48,5 +48,81 @@
     "IN FRONT OF NO. 22 OSHIN ST.",
     "IN FRONT OF NO. 20",
     " JOGUNOSIMI ST."
+  ],
+  "images": [
+    {
+      "id": 25,
+      "attachment": "img/clanAttachments (25).jpg",
+      "description": "TESTING",
+      "status": 1,
+      "createdBy": 62,
+      "dateCreated": 1538580197000,
+      "geoCode": "11185162533",
+      "pollingUnit": 33,
+      "ward": 118,
+      "lga": 516,
+      "state": 25,
+      "reportId": 1
+    },
+    {
+      "id": 26,
+      "attachment": "img/clanAttachments (26).jpg",
+      "description": "TESTING",
+      "status": 1,
+      "createdBy": 63,
+      "dateCreated": 1538580197000,
+      "geoCode": "21185162533",
+      "pollingUnit": 33,
+      "ward": 118,
+      "lga": 516,
+      "state": 25,
+      "reportId": 2
+    },
+    {
+      "id": 27,
+      "attachment": "img/clanAttachments (27).jpg",
+      "description": "TESTING",
+      "status": 1,
+      "createdBy": 64,
+      "dateCreated": 1538580197000,
+      "geoCode": "11185162533",
+      "pollingUnit": 33,
+      "ward": 118,
+      "lga": 516,
+      "state": 25,
+      "reportId": 1
+    },
+    {
+      "id": 28,
+      "attachment": "img/clanAttachments (28).jpg",
+      "description": "TESTING",
+      "status": 1,
+      "createdBy": 65,
+      "dateCreated": 1538580197000,
+      "geoCode": "11185162533",
+      "pollingUnit": 33,
+      "ward": 118,
+      "lga": 516,
+      "state": 25,
+      "reportId": 1
+    }
+  ],
+  "legend": [
+    {
+      "lga": "Alimosho",
+      "abrr": "KTU"
+    },
+    {
+      "lga": "another",
+      "abrr": "ann"
+    },
+    {
+      "lga": "something",
+      "abrr": "sss"
+    },
+    {
+      "lga": "and-one",
+      "abrr": "and"
+    }
   ]
 }
